@@ -1,0 +1,5 @@
+﻿  Batalha naval.cpp
+C:\Users\claud\OneDrive\Desktop\PROJETOS\PROJETOS\BATALHA NAVAL EM C++\Batalha naval\Batalha naval\Batalha naval.cpp(94,9): warning C4101: 'cont': variável local não referenciada
+C:\Users\claud\OneDrive\Desktop\PROJETOS\PROJETOS\BATALHA NAVAL EM C++\Batalha naval\Batalha naval\Batalha naval.cpp(135,9): warning C4101: 'linha': variável local não referenciada
+C:\Users\claud\OneDrive\Desktop\PROJETOS\PROJETOS\BATALHA NAVAL EM C++\Batalha naval\Batalha naval\Batalha naval.cpp(135,16): warning C4101: 'coluna': variável local não referenciada
+  Batalha naval.vcxproj -> C:\Users\claud\OneDrive\Desktop\PROJETOS\PROJETOS\BATALHA NAVAL EM C++\Batalha naval\x64\Debug\Batalha naval.exe
